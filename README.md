@@ -21,8 +21,8 @@ Le projet gère également la **pagination**, permettant de scraper **tous les a
 
 Cliquez sur l'image ci-dessous pour visionner la vidéo de démonstration de mon projet :
 
-<a href="https://akamidev.github.io/TEST_FORM/">
-    <img src="./Photo1.png" alt="Aperçu de la vidéo" width="400">
+<a href="https://akamidev.github.io/amazon_review_scraper/">
+    <img src="./Photo1.png" alt="Aperçu de la vidéo" width="500">
 </a>
 
 ---
